@@ -1,0 +1,38 @@
+{
+  "study_id": "Nachega",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "In South Africa, approximately 28 000 community healthcare workers (CHCWs) have been deployed. By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Figure 1. Coronavirus disease 2019 community screening by subdistrict in Cape Town, South Africa, 4 April 2020 to 22 May 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "The provided text does not mention blinding of outcome assessors."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Sixteen percent of those screened were referred for testing at health facilities (range, 4%– 48% by subdistrict)."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The provided text does not describe accounting for prognostic factors such as age or gender in the reported data."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "The provided text describes program activities and provides descriptive statistics but does not quantify the effect of the intervention through a formal analysis."
+    }
+  },
+  "overall_rob": "serious"
+}

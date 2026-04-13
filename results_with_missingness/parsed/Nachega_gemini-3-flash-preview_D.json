@@ -1,0 +1,38 @@
+{
+  "study_id": "Nachega",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "The arrival of coronavirus disease 2019 (COVID-19) on the African continent resulted in a range of lockdown measures that cur tailed the spread of the infection but caused economic hardship."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Of note, screening is done mainly by doctors and other CHCWs."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Globally, the current gold standard test for SARS-CoV-2 infection is detection of viral RNA in a sample from the respiratory tract by reverse transcriptase polymerase chain reaction [6–8]."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    }
+  },
+  "overall_rob": "serious"
+}

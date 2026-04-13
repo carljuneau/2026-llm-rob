@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Burke",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "state and local health departments in the United States, in collaboration with teams deployed from CDC, began identifying and monitoring all persons considered to have had close contact"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Active symptom monitoring of the 445 close contacts, consisting of daily telephone, text, or in-person inquiries about fever or other symptoms for 14 days following the last known exposure to a person with confirmed COVID-19, was conducted"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Active symptom monitoring of the 445 close contacts... was conducted by local health jurisdictions."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "for 14 days following the last known exposure"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "developed new or worsening symptoms deemed by local public health authorities to be concerning for COVID-19 and were thus considered persons under investigation (PUIs) and subsequently were tested for SARS-CoV-2."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "This yielded a symptomatic secondary attack rate of 0.45% (95% confidence interval [CI] = 0.12%–1.6%) among all close contacts... The 95% confidence interval around the binomial proportion was calculated using the Wilson score interval."
+    }
+  },
+  "overall_rob": "moderate"
+}
+```

@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "follow_up_length_reported": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "It follows the case-centric approach to case study, which is different from theory-centric or theory-building approaches [4], as it is used for a mechanistic explanation of the outcomes of a particular case."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

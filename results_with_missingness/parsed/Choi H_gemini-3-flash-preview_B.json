@@ -1,0 +1,38 @@
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. ... total 11,402 (100)"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "This case study describes the major cluster transmissions of SARS-CoV-2 in South Korea and analyzes the public health authorities’ emergency measures to the pandemic crisis. ... Table 1. Total cases by age as of 29 May 2020. ... total 11,402 (100)"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. ... total 11,402 (100)"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "In South Korea, the first confirmed case, identified on 20 January 2020 ... Table 1. Total cases by age as of 29 May 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Figure 1. Number of quarantined and recovered patients. ... Figure 2. Cumulative number of deaths by SARS-CoV-2 in South Korea."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "It follows the case-centric approach to case study, which is different from theory-centric or theory-building approaches [4], as it is used for a mechanistic explanation of the outcomes of a particular case. ... Figure 3. Trend of new confirmed cases."
+    }
+  },
+  "overall_rob": "moderate"
+}

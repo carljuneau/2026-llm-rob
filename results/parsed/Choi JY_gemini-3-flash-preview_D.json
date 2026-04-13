@@ -1,0 +1,38 @@
+{
+  "study_id": "Choi JY",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The median interval between onset of symptom and death was 10 days (range 1–24 days), while the median interval between date of hospitalisation and the date of death was 5 days (range 0–16 days)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "yes",
+      "quote": "Pan coronavirus conventional PCR assay was positive for the throat swab sample, and sequencing of the PCR amplicon showed that the sequence was identical to that of the 2019-nCoV isolated from the Wuhan patient."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Pan coronavirus conventional PCR assay was positive for the throat swab sample, and sequencing of the PCR amplicon showed that the sequence was identical to that of the 2019-nCoV isolated from the Wuhan patient."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Of 63 cases, 96.8% were found to have coexisting conditions such as hypertension (47.6%), diabetes (36.5%), neurodegenerative disorders (16%) and pulmonary diseases (17.5%)."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "The case fatality proportion was 0.1% among the age groups of 30–39 and 40–49 years, then increased to 0.4% (50–59 years), 1.5% (60–69 years), 5.0% (70–79 years) and 8.5% (≥80 years)."
+    }
+  },
+  "overall_rob": "serious"
+}

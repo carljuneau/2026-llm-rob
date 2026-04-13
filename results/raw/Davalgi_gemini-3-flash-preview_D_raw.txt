@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Davalgi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We selected few of the countries from all WHO regions except Africa that had the least number of cases and deaths due to COVID 19. The selected WHO regions share the maximum number of reported COVID 19 cases and deaths."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Hence, we selected a few countries in five WHO regions based on their COVID 19 caseload, management strategies and outcome and compared some of the important measures taken by them to contain the spread of infection."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "We have compared the measures taken by the selected countries in each of these WHO regions to contain the spread of COVID 19."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As of 9th April 2020, the 100th day after WHO was notified of the first cases of “pneumonia with unknown cause” in China, 1436198 confirmed cases and 85522 deaths were reported globally."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The study does not mention whether the individuals comparing the measures and outcomes were blinded to the countries' identities or strategies."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "The case fatality rate differs across the countries in different WHO regions and also within the countries based on the strategies planned and measures taken. (Table 1)"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The preexisting number of Hospital beds/1000 population in Germany was 8.3 when compared to 3.4 in Italy."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "We have compared the measures taken by the selected countries in each of these WHO regions to contain the spread of COVID 19."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

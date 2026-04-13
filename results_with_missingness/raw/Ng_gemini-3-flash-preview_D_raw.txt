@@ -1,0 +1,35 @@
+```json
+{
+  "study_id": "Ng",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "As of March 5, 2020, a total of 117 COVID-19 cases had been identified in Singapore. This report analyzes the first 100 COVID-19 patients in Singapore to determine the effectiveness of the surveillance and containment measures."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Singapore adopted a multi-pronged surveillance strategy that included applying the case definition at medical consults, tracing contacts of patients with laboratory-confirmed COVID-19, enhancing surveillance among different patient groups... Containment measures, including patient isolation and quarantine, active monitoring of contacts, border controls, and community education and precautions, were performed to minimize disease spread."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "This report analyzes the first 100 COVID-19 patients in Singapore to determine the effectiveness of the surveillance and containment measures."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The effectiveness of Singapore’s surveillance and containment efforts was assessed from the outbreak’s start until February 29 by calculating the 7-day moving average of the interval from symptom onset to isolation in hospital or quarantine."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "yes",
+      "quote": "Effectiveness of these measures was assessed by calculating the 7-day moving average of the interval from symptom onset to isolation in hospital or quarantine, which indicated significant decreasing trends for both local and imported COVID-19 cases."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Effectiveness of these measures was assessed by calculating the 7-day moving average of the interval from symptom onset to isolation in hospital or quarantine, which indicated significant decreasing trends for both local and imported COVID-19 cases."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Differences in the percentages of cases detected through the different surveillance components were tested using the chi-squared or Fisher’s exact test. All analyses were conducted using R statistical software (version 3.5.1; The R Foundation)."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The 7-day moving average of the interval from symptom onset to isolation declined significantly across the study period for both imported and local cases, from 9.0 and 18.0 days to 0.9 and 3.1 days, respectively (p<0.0

@@ -1,0 +1,38 @@
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "This investigation traced detailed follow-ups for 14 days after the discovery of confirmed cases while the containment measures were in place."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. Age Group Confirmed Cases (%) Deceased (%) Mortality Rate (%)"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Table 1 presents data from the Centers for Disease Control, showing that the largest number of confirmed cases (27.70%) occurred in the 20–29 age group."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "It follows the case-centric approach to case study, which is different from theory-centric or theory-building approaches [4], as it is used for a mechanistic explanation of the outcomes of a particular case."
+    }
+  },
+  "overall_rob": "serious"
+}

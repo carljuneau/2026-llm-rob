@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Davalgi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We selected few of the countries from all WHO regions except Africa that had the least number of cases and deaths due to COVID 19. ... These countries and WHO regions were selected purposely based upon their COVID 19 caseload, management strategies (better or worse, early or delayed) and outcome (deaths and recovered)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "We selected few of the countries from all WHO regions except Africa... (Table 1) ... compared some of the important measures taken by them to contain the spread of infection."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "The case fatality rate differs across the countries in different WHO regions and also within the countries based on the strategies planned and measures taken. (Table 1)"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As of 9th April 2020, the 100th day after WHO was notified of the first cases of “pneumonia with unknown cause” in China... (Table 1)"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The text does not provide information regarding the blinding of the authors or outcome assessors during the comparative analysis."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "TABLE 1 GLOBAL BURDEN OF DISEASE AS ON APRIL 9TH, 2020(2) ... Total Confirmed cases ... Total Deaths ... Case Fatality Rate, CFR (%)"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The study provides a descriptive comparative analysis of measures and outcomes across countries but does not statistically account for or adjust for important prognostic factors such as population age distribution, density, or comorbidities."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "We have compared the measures taken by the selected countries in each of these WHO regions to contain the spread of COVID 19. ... All the countries faced the novel strain of virus and implemented similar strategies as per the guidance of WHO, but the extent of preparedness, swiftness with which the decisions were made and the scale of measures made the difference."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

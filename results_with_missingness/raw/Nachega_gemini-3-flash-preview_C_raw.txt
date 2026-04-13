@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Nachega",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "In South Africa, approximately 28 000 community healthcare workers (CHCWs) have been deployed. By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "In South Africa, approximately 28 000 community healthcare workers (CHCWs) have been deployed. By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "Sixteen percent of those screened were referred for testing at health facilities (range, 4%– 48% by subdistrict)."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Figure 1. Coronavirus disease 2019 community screening by subdistrict in Cape Town, South Africa, 4 April 2020 to 22 May 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Of note, screening is done mainly by doctors and other CHCWs."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Globally, the current gold standard test for SARS-CoV-2 infection is detection of viral RNA in a sample from the respiratory tract by reverse transcriptase polymerase chain reaction"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Fortunately, most of the cases were young and asymptomatic, and 104 recovered."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

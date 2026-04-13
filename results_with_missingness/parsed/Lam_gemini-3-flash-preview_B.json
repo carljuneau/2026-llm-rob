@@ -1,0 +1,38 @@
+{
+  "study_id": "Lam",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "A total of 1084 confirmed cases were reported between January and May 2020"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Between January and May 2020, 1084 confirmed COVID-19 cases were reported... Various public health measures, including enhanced surveillance, border control, and social distancing, were introduced in phases"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "The epidemiological and clinical profiles of the confirmed cases were described and compared between different case classifications and phases of the epidemic"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "We reviewed the case epidemiology and the various public health measures implemented from January to May 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The full text does not provide information regarding the blinding of outcome assessors."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "A confirmed COVID-19 case was defined according to the case definition issued by the Centre for Health Protection (CHP)... confirmation required the detection (e.g., by reverse transcription-polymerase chain reaction (RT-PCR)) of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in a clinical specimen."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "The epidemiological and clinical profiles of the confirmed cases were described and compared between different case classifications and phases of the epidemic... using appropriate statistical tests"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Their overall effectiveness was assessed by calculating the 7-day moving averages of the daily number of confirmed cases reported and the interval from symptom onset to hospital admission (onset-to-admission interval)"
+    }
+  },
+  "overall_rob": "moderate"
+}

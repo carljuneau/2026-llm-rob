@@ -1,0 +1,38 @@
+{
+  "study_id": "Nachega",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "The article reports on national and regional public health programs (e.g., 'more than 6 million people had been screened' in South Africa) but does not define a specific eligible study population to determine if >90% were included."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "In South Africa, approximately 28 000 community healthcare workers (CHCWs) have been deployed. By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "The article reports on the results of screening and testing programs but does not explicitly state that outcomes were assessed for at least 60% of a defined study group of interest."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Cases and contacts are then monitored for 14 days."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The text does not provide information regarding whether outcome assessors were blinded to the investigated determinant."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Globally, the current gold standard test for SARS-CoV-2 infection is detection of viral RNA in a sample from the respiratory tract by reverse transcriptase polymerase chain reaction [6–8]."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": "The article is a descriptive viewpoint and does not perform a formal analysis that accounts for prognostic factors such as age or gender."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "unclear",
+      "quote": "While the article provides descriptive statistics (e.g., 'Sixteen percent of those screened were referred for testing'), it does not describe a formal method of analysis to quantify the effect of an intervention."
+    }
+  },
+  "overall_rob": "moderate"
+}

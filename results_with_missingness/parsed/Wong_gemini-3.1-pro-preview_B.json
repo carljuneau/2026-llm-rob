@@ -1,0 +1,38 @@
+{
+  "study_id": "Wong",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "follow_up_length_reported": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "1010 people had tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 4 had died from COVID-19."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "These measures appear to have been effective in curbing the potential exponential rise of cases during the early period of the epidemic,11 and implementation of more recent measures appear to have slowed the increase of local cases"
+    }
+  },
+  "overall_rob": "serious"
+}

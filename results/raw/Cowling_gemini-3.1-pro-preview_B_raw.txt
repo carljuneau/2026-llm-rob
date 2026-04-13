@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Cowling",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "We analysed data on laboratory-confirmed COVID-19 cases, influenza surveillance data in outpatients of all ages, and influenza hospitalisations in children. [...] We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "COVID-19 transmissibility measured by Rt has remained at approximately 1 for 8 weeks in Hong Kong."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "our surveys of population behaviours could have been affected by response bias, because we relied on self-reported data."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Data on laboratory-confirmed COVID-19 cases were obtained from the Hong Kong Centre for Health Protection [...] influenza-like illness, defined as fever plus cough or sore throat."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Means and proportions of survey responses were directly weighted by sex and age to the general population."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We estimated the time-varying reproduction numbers from serial intervals and incidence of COVID-19 cases over time [...] with a 44% (95% CI 34–53%) reduction in transmissibility in the community, from an estimated Rt of 1·28 (95% CI 1·26–1·30) before the start of the school closures to 0·72 (0·70–0·74) during the closure weeks."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

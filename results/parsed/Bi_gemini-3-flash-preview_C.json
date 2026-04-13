@@ -1,0 +1,38 @@
+{
+  "study_id": "Bi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "From Jan 14 to Feb 12, 2020, the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "From Jan 14 to Feb 12, 2020, the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "622 (95%) of 653 close contacts with known dates for the period when they were under quarantine were followed up for 12 days or longer."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As of Feb 22, 2020, three cases had died and 225 had recovered (median time to recovery 21 days; 95% CI 20–22)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Analytical datasets were constructed in an anonymised manner, and all analysis of personally identifiable data took place onsite at the Shenzhen CDC."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Suspected cases and close contacts were tested for SARS-CoV-2 by RT-PCR of nasal swabs... cases with fever, respiratory symptoms, and radiographic evidence of pneumonia were classified as having moderate symptoms. Cases were classified as having severe symptoms if they had any of the following: breathing rate 30 breaths per min or higher; oxygen saturation level 93% or lower at rest..."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "In multiple logistic regression, male sex was associated with severe symptoms (odds ratio [OR] 2·5 [95% CI 1·1–6·1]). The probability of severe symptoms increased slightly with age..."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The household secondary attack rate was 11·2% (95% CI 9·1–13·8), and children were as likely to be infected as adults (infection rate 7·4% in children <10 years vs population average of 6·6%). The observed reproductive number (R) was 0·4 (95% CI 0·3–0·5), with a mean serial interval of 6·3 days (95% CI 5·2–7·6)."
+    }
+  },
+  "overall_rob": "moderate"
+}

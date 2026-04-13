@@ -1,0 +1,38 @@
+{
+  "study_id": "Bi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Here, we analyse confirmed cases identified by the Shenzhen CDC between Jan 14 and Feb 12, 2020, and close contacts of cases confirmed before Feb 9, 2020."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "From Jan 14 to Feb 12, 2020, the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "no",
+      "quote": "As of Feb 22, 2020, final clinical outcomes were known for 228 of 391 cases in our data"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "622 (95%) of 653 close contacts with known dates for the period when they were under quarantine were followed up for 12 days or longer."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Suspected cases and close contacts were tested for SARS-CoV-2 by RT-PCR of nasal swabs at 28 qualified local hospitals, ten district-level CDCs, and two third-party testing organisations"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "In multiple regression models including sex, age, baseline severity, and method of detection, in addition to age, baseline severity was associated with time to recovery"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Relationships between demographics, mode of detection, and symptom severity were assessed and characterised with χ² tests, and simple and multiple logistic regression."
+    }
+  },
+  "overall_rob": "serious"
+}

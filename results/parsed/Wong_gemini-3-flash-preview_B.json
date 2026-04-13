@@ -1,0 +1,38 @@
+{
+  "study_id": "Wong",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Hong Kong, a special administrative region of the People’s Republic of China, is located in southern China and shares a border with mainland China. It has a population of more than 7.45 million..."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Hong Kong’s multipronged approach is summarized in Box 1; it included border controls, social distancing, quarantine, aggressive contact tracing, testing, screening and surveillance."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "From January to March 2020, 96 709 tests were performed, and by Apr. 14, 2020, 1010 people had tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 4 had died from COVID-19."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The first case of COVID-19 in Hong Kong was reported on Jan. 22, 2020. ... by Apr. 14, 2020, 1010 people had tested positive..."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "The first case of COVID-19 in Hong Kong was reported on Jan. 22, 2020. From January to March 2020, 96 709 tests were performed"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "1010 people had tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 4 had died from COVID-19."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The population density in Hong Kong is one of the highest in the world... This, together with its proximity to the mainland, makes Hong Kong vulnerable to being severely affected by the coronavirus disease 2019 (COVID-19) pandemic."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "These measures appear to have been effective in curbing the potential exponential rise of cases during the early period of the epidemic"
+    }
+  },
+  "overall_rob": "serious"
+}

@@ -1,0 +1,38 @@
+{
+  "study_id": "Cowling",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "We analysed data on laboratory-confirmed COVID-19 cases, influenza surveillance data in outpatients of all ages, and influenza hospitalisations in children... Attitudes towards COVID-19 and changes in population behaviours were reviewed through three telephone surveys done on Jan 20–23, Feb 11–14, and March 10–13, 2020."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "We interviewed 1008 participants... 1000 participants... and 1005 participants... Respondents included a broad cross-section of the adult population of Hong Kong."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "We examined the effect of these interventions and behavioural changes of the public on the incidence of COVID-19, as well as on influenza virus infections... through three telephone surveys done on Jan 20–23, Feb 11–14, and March 10–13, 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Calls were made during both working and non-working hours by trained interviewers to avoid over-representation of non-working groups."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Data on laboratory-confirmed COVID-19 cases were obtained from the Hong Kong Centre for Health Protection... influenza-like illness, defined as fever plus cough or sore throat."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Means and proportions of survey responses were directly weighted by sex and age to the general population."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We estimated the daily effective reproduction number (Rt) for COVID-19 and influenza A H1N1 to estimate changes in transmissibility over time... with a 44% (95% CI 34–53%) reduction in transmissibility in the community."
+    }
+  },
+  "overall_rob": "serious"
+}

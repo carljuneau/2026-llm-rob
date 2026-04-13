@@ -1,0 +1,5 @@
+Study ID: {study_id}
+
+Assess risk of bias in the following study as low, moderate, or serious.
+
+Base your judgment only on the provided study text and not on other studies, knowledge, or assumptions. Return only valid JSON.

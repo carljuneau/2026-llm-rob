@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Lam",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "This study was performed to review the epidemiology of the confirmed COVID-19 cases reported from January to May 2020 and to assess the overall effectiveness of the various public health measures."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Between January and May 2020, 1084 confirmed COVID-19 cases were reported... Various public health measures, including enhanced surveillance, border control, and social distancing, were introduced in phases in response to the prevailing local and global situations."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "The epidemiological and clinical profiles of the confirmed cases were described and compared between different case classifications and phases of the epidemic, using appropriate statistical tests with Microsoft Excel 2013 and R version 3.6.0."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The overall containment strategy in Hong Kong led to a stabilization of the number of cases and the absence of a community-wide outbreak during the 4.5 m after the first case was reported."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The epidemiological and clinical characteristics of the cases recorded in different phases of the epidemic were described and compared..."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "A confirmed COVID-19 case was defined according to the case definition issued by the Centre for Health Protection (CHP)... confirmation required the detection (e.g., by reverse transcription-polymerase chain reaction (RT-PCR)) of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in a clinical specimen."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The epidemiological and clinical characteristics of the cases recorded in different phases of the epidemic were described and compared... using appropriate statistical tests with Microsoft Excel 2013 and R version 3.6.0."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The effectiveness of the public health measures implemented were reviewed using the changes in the daily number of confirmed cases and the interval from symptom onset to hospital admission."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

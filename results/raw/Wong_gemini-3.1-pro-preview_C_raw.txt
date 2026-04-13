@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Wong",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat, so that other countries may be able to learn from Hong Kong’s experience."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "Hong Kong’s multipronged approach is summarized in Box 1; it included border controls, social distancing, quarantine, aggressive contact tracing, testing, screening and surveillance."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "From January to March 2020, 96 709 tests were performed, and by Apr. 14, 2020, 1010 people had tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 4 had died from COVID-19."
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "From January to March 2020, 96 709 tests were performed, and by Apr. 14, 2020, 1010 people had tested positive"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "diagnostic tests were administered at the airport for Hong Kong residents returning from countries with a high prevalence of COVID-19"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "1010 people had tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 4 had died from COVID-19."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "These measures appear to have been effective in curbing the potential exponential rise of cases during the early period of the epidemic"
+    }
+  },
+  "overall_rob": "serious"
+}
+```

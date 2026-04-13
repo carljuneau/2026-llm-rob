@@ -1,0 +1,38 @@
+{
+  "study_id": "Burke",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Among the first 10 patients with travel-related confirmed COVID-19 reported in the United States, a total of 445 persons (range = 1–201 persons per case) who had close contact with one of the 10 patients on or after the date of the patient’s symptom onset were identified."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Active symptom monitoring of the 445 close contacts, consisting of daily telephone, text, or in-person inquiries about fever or other symptoms for 14 days following the last known exposure to a person with confirmed COVID-19, was conducted by local health jurisdictions."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Active symptom monitoring of the 445 close contacts... was conducted by local health jurisdictions."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "for 14 days following the last known exposure to a person with confirmed COVID-19"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "Active symptom monitoring of the 445 close contacts... was conducted by local health jurisdictions."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "tested positive for SARS-CoV-2"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "This yielded a symptomatic secondary attack rate of 0.45% (95% confidence interval [CI] = 0.12%–1.6%) among all close contacts,¶¶ and a symptomatic secondary attack rate of 10.5% (95% CI = 2.9%–31.4%) among household members."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "This yielded a symptomatic secondary attack rate of 0.45% (95% confidence interval [CI] = 0.12%–1.6%) among all close contacts,¶¶... ¶¶ The 95% confidence interval around the binomial proportion was calculated using the Wilson score interval."
+    }
+  },
+  "overall_rob": "serious"
+}

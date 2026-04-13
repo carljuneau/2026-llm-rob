@@ -1,0 +1,38 @@
+{
+  "study_id": "Choi JY",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "follow_up_length_reported": {
+      "judgment": "unclear",
+      "quote": "The full text does not provide enough information to judge the length of follow-up for the entire study group, although it mentions intervals for fatal cases: \"The median interval between onset of symptom and death was 10 days (range 1–24 days), while the median interval between date of hospitalisation and the date of death was 5 days (range 0–16 days).\""
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The full text does not provide information regarding the blinding of outcome assessors."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea, including 162 deaths, 5408 recovered individuals released from isolation and 4216 patients staying in hospitals or non-hospital facility for isolation."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "The female-to-male ratio was 62:38. The age group of 20–29 years accounted for 28.9% of all cases, followed by the age groups of 50–59 and 40–49 years. The case fatality proportion was 0.1% among the age groups of 30–39 and 40–49 years, then increased to 0.4% (50–59 years), 1.5% (60–69 years), 5.0% (70–79 years) and 8.5% (≥80 years)."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "unclear",
+      "quote": "The full text describes trends in Figure 1 (\"Figure 1 shows the daily trends of numbers of newly confirmed patients with COVID-19 and isolated patients with COVID-19 in South Korea\") but does not provide a formal statistical quantification of the effect of the interventions."
+    }
+  },
+  "overall_rob": "moderate"
+}

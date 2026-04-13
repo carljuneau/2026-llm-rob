@@ -1,0 +1,15 @@
+```json
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. ... total 11,402 (100)"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote

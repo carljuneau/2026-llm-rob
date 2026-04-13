@@ -1,0 +1,38 @@
+{
+  "study_id": "Dinh",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "Despite limited resources, Vietnam has kept the outbreak under control since the first cases were confirmed more than 2 months ago."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "The country has kept the outbreak at a slow growth rate even after reporting 100 cases, with doubling time of more than 7 days, on par with Japan or Singapore"
+    }
+  },
+  "overall_rob": "serious"
+}

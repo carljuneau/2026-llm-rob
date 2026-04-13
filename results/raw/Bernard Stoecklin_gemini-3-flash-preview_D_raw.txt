@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Bernard Stoecklin",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Between 10 January and 24 January (period until confirmation of the first cases in France), nine possible cases were identified in France; among them, three cases were confirmed with COVID-19."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Three cases of COVID-19 were confirmed on 24 January, the first cases in Europe. Contact tracing was immediately initiated. Five contacts were evaluated as at low risk of exposure and 18 at moderate/high risk."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As at 12 February, the contacts of the three first confirmed cases of COVID-19 in France have been followed up for the whole 14 days follow-up time after the cases isolation."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As at 12 February, the contacts of the three first confirmed cases of COVID-19 in France have been followed up for the whole 14 days follow-up time after the cases isolation."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Investigations are carried out among contacts immediately upon illness onset and a follow-up procedure is initiated according to the evaluated level of infection risk."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "A confirmed case was defined as a possible case with a positive SARS-CoV-2 RT-PCR on respiratory samples, performed by an accredited laboratory."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Three levels of risk of infection are defined for contacts/co-exposed persons of a possible/confirmed COVID-19 case (Table)."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Five contacts were evaluated as at low risk of exposure and 18 at moderate/high risk. As at 12 February 2020, two cases have been discharged and the third one remains symptomatic with a persistent cough, and no secondary transmission has been identified."
+    }
+  },
+  "overall_rob": "moderate"
+}
+```

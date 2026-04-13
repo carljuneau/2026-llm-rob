@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi JY",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea, including 162 deaths, 5408 recovered individuals released from isolation and 4216 patients staying in hospitals or non-hospital facility for isolation."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The first imported case of COVID-19 was confirmed in South Korea on 20 January 2020. ... As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Pan coronavirus conventional PCR assay was positive for the throat swab sample, and sequencing of the PCR amplicon showed that the sequence was identical to that of the 2019-nCoV isolated from the Wuhan patient."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "The female-to-male ratio was 62:38. The age group of 20–29 years accounted for 28.9% of all cases, followed by the age groups of 50–59 and 40–49 years. The case fatality proportion was 0.1% among the age groups of 30–39 and 40–49 years, then increased to 0.4% (50–59 years), 1.5% (60–69 years), 5.0% (70–79 years) and 8.5% (≥80 years)."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Figure 1 shows the daily trends of numbers of newly confirmed patients with COVID-19 and isolated patients with COVID-19 in South Korea. The number of newly confirmed cases was highest in 29 February 2020, and after that, the number gradually decreased until mid-March, but after 12 March, around 100 cases are steadily occurring every day."
+    }
+  },
+  "overall_rob": "moderate"
+}
+```

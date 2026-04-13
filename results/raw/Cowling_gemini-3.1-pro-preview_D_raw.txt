@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Cowling",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "We did three cross-sectional telephone surveys among the general adult population in Hong Kong, on Jan 20–23, Feb 11–14, and March 10–13, 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "Data on laboratory-confirmed COVID-19 cases were obtained from the Hong Kong Centre for Health Protection, which provides daily updates with individual case data on a dedicated webpage."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "We estimated changes in COVID-19 transmissibility over time via the effective reproduction number (Rt), which represents the mean number of secondary infections that result from a primary case of infection at time t."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Means and proportions of survey responses were directly weighted by sex and age to the general population."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Influenza transmission declined substantially after the implementation of social distancing measures and changes in population behaviours in late January, with a 44% (95% CI 34–53%) reduction in transmissibility in the community, from an estimated Rt of 1·28 (95% CI 1·26–1·30) before the start of the school closures to 0·72 (0·70–0·74) during the closure weeks."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

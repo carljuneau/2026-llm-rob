@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi JY",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "The female-to-male ratio was 62:38. The age group of 20–29 years accounted for 28.9% of all cases, followed by the age groups of 50–59 and 40–49 years."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The median interval between onset of symptom and death was 10 days (range 1–24 days), while the median interval between date of hospitalisation and the date of death was 5 days (range 0–16 days)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "The case fatality proportion was 0.1% among the age groups of 30–39 and 40–49 years, then increased to 0.4% (50–59 years), 1.5% (60–69 years), 5.0% (70–79 years) and 8.5% (≥80 years)."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "The case fatality proportion was 0.1% among the age groups of 30–39 and 40–49 years, then increased to 0.4% (50–59 years), 1.5% (60–69 years), 5.0% (70–79 years) and 8.5% (≥80 years)."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "They described the characteristics of 66 fatal patients with COVID-19 as of 12 March 2020."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

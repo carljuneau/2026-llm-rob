@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Lam",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "A total of 1084 confirmed cases were reported between January and May 2020, comprising 588 males and 496 females (male to female ratio, 1.19:1) who ranged in age from 40 d to 96 y (mean 37.5, median 35 y)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "This study was performed to review the epidemiology of the confirmed COVID-19 cases reported from January to May 2020 and to assess the overall effectiveness of the various public health measures."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "For each confirmed case, relevant epidemiological and clinical data collected from CHP epidemiological investigations were extracted from the CHP electronic databases."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "All cases were isolated in public hospitals. As at 31 May 2020, 1036 patients had been discharged, with an average length of stay of 21.6 d (range 1–94 d; median 20 d). Four deaths were reported (case fatality ratio, 0.4%)"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "yes",
+      "quote": "All cases were confirmed by RT-PCR between 23 January and 31 May 2020."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "A confirmed COVID-19 case was defined according to the case definition issued by the Centre for Health Protection (CHP), Department of Health (Centre for Health Protection, 2020). In brief, confirmation required the detection (e.g., by reverse transcription-polymerase chain reaction (RT-PCR)) of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in a clinical specimen."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "As a descriptive study, causal relationships between the public health measures and the epidemic trend could not be established. In addition, the contribution of the effect of individual measures could not be assessed."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Their overall effectiveness was assessed by calculating the 7-day moving averages of the daily number of confirmed cases reported and the interval from symptom onset to hospital admission (onset-to-admission interval) (Ng et al., 2020)."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

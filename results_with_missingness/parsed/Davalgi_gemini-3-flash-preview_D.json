@@ -1,0 +1,38 @@
+{
+  "study_id": "Davalgi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We selected few of the countries from all WHO regions except Africa that had the least number of cases and deaths due to COVID 19. ... These countries and WHO regions were selected purposely based upon their COVID 19 caseload, management strategies (better or worse, early or delayed) and outcome (deaths and recovered)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "we selected a few countries in five WHO regions based on their COVID 19 caseload, management strategies and outcome and compared some of the important measures taken by them to contain the spread of infection. ... [Table 1 lists countries: Germany, Italy, USA, Canada, China, Singapore, Iran, KSA, India, Srilanka]"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "TABLE 1 GLOBAL BURDEN OF DISEASE AS ON APRIL 9TH, 2020(2) [Table provides data for all 10 selected countries]"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As of 9th April 2020, the 100th day after WHO was notified of the first cases of “pneumonia with unknown cause” in China, 1436198 confirmed cases and 85522 deaths were reported globally."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The text does not provide information regarding whether the authors or outcome assessors were blinded to the investigated determinants during the comparative analysis."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "TABLE 1 GLOBAL BURDEN OF DISEASE AS ON APRIL 9TH, 2020(2) ... Total Confirmed cases ... Total Deaths ... Case Fatality Rate, CFR (%)"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The study compares measures and outcomes across countries but does not adequately account for or adjust for important prognostic factors such as the age or gender distribution of the populations in the analysis."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "Hence, we selected a few countries in five WHO regions based on their COVID 19 caseload, management strategies and outcome and compared some of the important measures taken by them to contain the spread of infection. ... [The analysis is descriptive and does not use statistical methods to quantify the specific effect of the interventions on the outcomes.]"
+    }
+  },
+  "overall_rob": "serious"
+}

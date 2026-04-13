@@ -1,0 +1,38 @@
+{
+  "study_id": "Bi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Between Jan 14 and Feb 12, 2020, the Shenzhen CDC confirmed 391 cases of SARS-CoV-2 infection (table 1)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "From Jan 14 to Feb 12, 2020, the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "At the time of first clinical assessment, most cases were mild (102 [26%] of 391) or moderate (254 [65%] of 391), and only 35 (9%) were severe."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Close contacts and travellers from Hubei who tested negative were quarantined at home or a central facility, and monitored for 14 days."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Analytical datasets were constructed in an anonymised manner, and all analysis of personally identifiable data took place onsite at the Shenzhen CDC."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Cases were classified as having severe symptoms if they had any of the following: breathing rate 30 breaths per min or higher; oxygen saturation level 93% or lower at rest; oxygen concentration level PaO2/FiO2 (ratio of arterial oxygen partial pressure to fractional inspired oxygen) 300 mm Hg (1 mm Hg=0·133 kPa) or lower; lung infiltrates higher than 50% within 24–48 h; respiratory failure requiring mechanical ventilation; septic shock; or multiple organ dysfunction or failure."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "In multiple logistic regression, male sex was associated with severe symptoms (odds ratio [OR] 2·5 [95% CI 1·1–6·1]). The probability of severe symptoms increased slightly with age"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Relationships between demographics, mode of detection, and symptom severity were assessed and characterised with χ² tests, and simple and multiple logistic regression."
+    }
+  },
+  "overall_rob": "moderate"
+}

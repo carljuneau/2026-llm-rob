@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Cowling",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of March 31, 2020, Hong Kong had confirmed 715 cases of SARS coronavirus 2 (SARS-CoV-2) infection... We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "We estimated the daily effective reproduction number (Rt) for COVID-19 and influenza A H1N1 to estimate changes in transmissibility over time. Attitudes towards COVID-19 and changes in population behaviours were reviewed through three telephone surveys done on Jan 20–23, Feb 11–14, and March 10–13, 2020."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "In the 10 weeks (corresponding to about ten generation times) since the first known individual with COVID-19 in Hong Kong began to show symptoms, there has been little sustained, local transmission of the disease."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Data on laboratory-confirmed COVID-19 cases were obtained from the Hong Kong Centre for Health Protection... We did three cross-sectional telephone surveys among the general adult population in Hong Kong"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Data on laboratory-confirmed COVID-19 cases were obtained from the Hong Kong Centre for Health Protection... We obtained laboratory surveillance data from the Public Health Laboratory Services on influenza testing results on specimens from public hospitals and sentinel surveillance sites"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Means and proportions of survey responses were directly weighted by sex and age to the general population."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We evaluated the changes in transmissibility by comparing the Rt values during the 2 weeks before and after the start of the school closures... a 44% (95% CI 34–53%) reduction in transmissibility in the community, from an estimated Rt of 1·28 (95% CI 1·26–1·30) before the start of the school closures to 0·72 (0·70–0·74) during the closure weeks."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

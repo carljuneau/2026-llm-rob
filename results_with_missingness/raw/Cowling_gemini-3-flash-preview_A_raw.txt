@@ -1,0 +1,7 @@
+```json
+{
+  "Study ID": "Cowling",
+  "Risk of Bias Assessment": "moderate",
+  "Justification": "The study is observational and faces inherent limitations in disentangling the specific effects of multiple concurrent non-pharmaceutical interventions, leading to potential confounding. The behavioral data was collected via telephone surveys with relatively low response rates (15–23%) and relied on self-reported measures, which are susceptible to selection and social desirability biases. Additionally, the estimation of the effective reproduction number (Rt) relied on assumptions regarding serial intervals and case detection rates."
+}
+```

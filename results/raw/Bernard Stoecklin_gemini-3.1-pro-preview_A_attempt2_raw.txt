@@ -1,0 +1,6 @@
+```json
+{
+  "Risk of Bias": "moderate",
+  "Reason": "The study is a descriptive report of the first three cases of COVID-19 in France. While the surveillance and contact tracing methods are well-documented, the authors explicitly acknowledge that the initial case definition lacked sensitivity, which may have led to undetected cases (selection bias). Furthermore, detailed exposure information was missing for one of the cases, and the sample size is extremely small (n=3), limiting the generalizability of the findings."
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"study_id": "Burke", "risk_of_bias": "moderate"}
+```

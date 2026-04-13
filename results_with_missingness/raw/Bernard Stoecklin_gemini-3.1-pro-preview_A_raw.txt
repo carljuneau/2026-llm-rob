@@ -1,0 +1,6 @@
+```json
+{
+  "risk_of_bias": "low",
+  "reasoning": "The study clearly defines the case definition and contact tracing protocols. It uses reliable, standard laboratory methods (RT-PCR) for case confirmation, includes all consecutive initial cases identified in France during the study period, and provides detailed clinical, epidemiological, and follow-up data for both the cases and their contacts."
+}
+```

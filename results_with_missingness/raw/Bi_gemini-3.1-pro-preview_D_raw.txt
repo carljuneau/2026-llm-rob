@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Bi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Here, we analyse confirmed cases identified by the Shenzhen CDC between Jan 14 and Feb 12, 2020, and close contacts of cases confirmed before Feb 9, 2020."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "From Jan 14 to Feb 12, 2020, the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "622 (95%) of 653 close contacts with known dates for the period when they were under quarantine were followed up for 12 days or longer."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "622 (95%) of 653 close contacts with known dates for the period when they were under quarantine were followed up for 12 days or longer."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Suspected cases and close contacts were tested for SARS-CoV-2 by RT-PCR of nasal swabs at 28 qualified local hospitals, ten district-level CDCs, and two third-party testing organisations"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Suspected cases and close contacts were tested for SARS-CoV-2 by RT-PCR of nasal swabs"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "In multiple conditional logistic regression analysis of contact types, household contact (OR 6·3; 95% CI 1·5–26·3) and travelling together (OR 7·1; 1·4–34·9) were significantly associated with infection"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The relative odds of transmission among contacts of various types were estimated by use of conditional logistic regression and random-effects models, to account for differing numbers of possible infected individuals in each risk group."
+    }
+  },
+  "overall_rob": "moderate"
+}
+```

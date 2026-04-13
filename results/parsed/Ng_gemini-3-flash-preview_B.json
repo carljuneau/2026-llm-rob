@@ -1,0 +1,38 @@
+{
+  "study_id": "Ng",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "This report analyzes the first 100 COVID-19 patients in Singapore to determine the effectiveness of the surveillance and containment measures."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "This report analyzes the first 100 COVID-19 patients in Singapore to determine the effectiveness of the surveillance and containment measures."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "The mean interval from symptom onset to hospital isolation or quarantine was 5.6 days (median = 5 days; IQR = 2–8 days)."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The effectiveness of Singapore’s surveillance and containment efforts was assessed from the outbreak’s start until February 29"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The study does not mention whether the outcome assessors were blinded to the investigated determinant."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Effectiveness of these measures was assessed by calculating the 7-day moving average of the interval from symptom onset to isolation in hospital or quarantine"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Among the first 100 confirmed COVID-19 cases in Singapore, the average patient age was 42.5 years (median = 41 years; interquartile range [IQR] = 34–54 years) (Table). The majority (72%) of patients were aged 30–59 years, and 60% of patients were male."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The 7-day moving average of the interval from symptom onset to isolation declined significantly across the study period for both imported and local cases, from 9.0 and 18.0 days to 0.9 and 3.1 days, respectively (p<0.001)"
+    }
+  },
+  "overall_rob": "moderate"
+}

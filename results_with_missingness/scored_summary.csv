@@ -1,0 +1,113 @@
+study_id,model,condition,criterion_agreement,model_overall_rob,gold_overall_rob,overall_correct,derived_overall_rob,derived_overall_correct,parse_failure
+Bernard Stoecklin,gemini-3-flash-preview,A,,,serious,,,,true
+Bi,gemini-3-flash-preview,A,,,serious,,,,true
+Burke,gemini-3-flash-preview,A,,,serious,,,,true
+Chen,gemini-3-flash-preview,A,,,serious,,,,true
+Choi H,gemini-3-flash-preview,A,,,serious,,,,true
+Choi JY,gemini-3-flash-preview,A,,,serious,,,,true
+Cowling,gemini-3-flash-preview,A,,,serious,,,,true
+Davalgi,gemini-3-flash-preview,A,,,serious,,,,true
+Dinh,gemini-3-flash-preview,A,,,serious,,,,true
+Lam,gemini-3-flash-preview,A,,,serious,,,,true
+Nachega,gemini-3-flash-preview,A,,,serious,,,,true
+Ng,gemini-3-flash-preview,A,,,serious,,,,true
+Wilasang,gemini-3-flash-preview,A,,,serious,,,,true
+Wong,gemini-3-flash-preview,A,,,serious,,,,true
+Bernard Stoecklin,gemini-3-flash-preview,B,0.750000,moderate,serious,false,moderate,false,false
+Bi,gemini-3-flash-preview,B,0.750000,moderate,serious,false,moderate,false,false
+Burke,gemini-3-flash-preview,B,0.750000,moderate,serious,false,moderate,false,false
+Chen,gemini-3-flash-preview,B,0.750000,moderate,serious,false,moderate,false,false
+Choi H,gemini-3-flash-preview,B,0.500000,moderate,serious,false,moderate,false,false
+Choi JY,gemini-3-flash-preview,B,0.625000,moderate,serious,false,moderate,false,false
+Cowling,gemini-3-flash-preview,B,0.625000,serious,serious,true,serious,true,false
+Davalgi,gemini-3-flash-preview,B,0.500000,serious,serious,true,serious,true,false
+Dinh,gemini-3-flash-preview,B,0.750000,moderate,serious,false,moderate,false,false
+Lam,gemini-3-flash-preview,B,0.875000,moderate,serious,false,moderate,false,false
+Nachega,gemini-3-flash-preview,B,0.375000,moderate,serious,false,moderate,false,false
+Ng,gemini-3-flash-preview,B,0.875000,moderate,serious,false,moderate,false,false
+Wilasang,gemini-3-flash-preview,B,0.875000,serious,serious,true,serious,true,false
+Wong,gemini-3-flash-preview,B,0.625000,moderate,serious,false,moderate,false,false
+Bernard Stoecklin,gemini-3-flash-preview,C,0.750000,serious,serious,true,serious,true,false
+Bi,gemini-3-flash-preview,C,0.750000,serious,serious,true,serious,true,false
+Burke,gemini-3-flash-preview,C,0.750000,moderate,serious,false,moderate,false,false
+Chen,gemini-3-flash-preview,C,0.875000,serious,serious,true,serious,true,false
+Choi H,gemini-3-flash-preview,C,0.625000,serious,serious,true,serious,true,false
+Choi JY,gemini-3-flash-preview,C,0.375000,serious,serious,true,serious,true,false
+Cowling,gemini-3-flash-preview,C,0.750000,serious,serious,true,serious,true,false
+Davalgi,gemini-3-flash-preview,C,0.500000,serious,serious,true,serious,true,false
+Dinh,gemini-3-flash-preview,C,0.875000,serious,serious,true,serious,true,false
+Lam,gemini-3-flash-preview,C,0.875000,moderate,serious,false,moderate,false,false
+Nachega,gemini-3-flash-preview,C,0.500000,serious,serious,true,serious,true,false
+Ng,gemini-3-flash-preview,C,0.625000,serious,serious,true,serious,true,false
+Wilasang,gemini-3-flash-preview,C,0.750000,serious,serious,true,serious,true,false
+Wong,gemini-3-flash-preview,C,0.500000,serious,serious,true,serious,true,false
+Bernard Stoecklin,gemini-3-flash-preview,D,0.750000,moderate,serious,false,moderate,false,false
+Bi,gemini-3-flash-preview,D,0.625000,moderate,serious,false,moderate,false,false
+Burke,gemini-3-flash-preview,D,0.875000,serious,serious,true,serious,true,false
+Chen,gemini-3-flash-preview,D,0.750000,serious,serious,true,serious,true,false
+Choi H,gemini-3-flash-preview,D,0.500000,serious,serious,true,serious,true,false
+Choi JY,gemini-3-flash-preview,D,0.625000,serious,serious,true,serious,true,false
+Cowling,gemini-3-flash-preview,D,0.625000,serious,serious,true,serious,true,false
+Davalgi,gemini-3-flash-preview,D,0.500000,serious,serious,true,serious,true,false
+Dinh,gemini-3-flash-preview,D,0.750000,serious,serious,true,serious,true,false
+Lam,gemini-3-flash-preview,D,0.750000,serious,serious,true,serious,true,false
+Nachega,gemini-3-flash-preview,D,0.250000,serious,serious,true,serious,true,false
+Ng,gemini-3-flash-preview,D,0.750000,serious,serious,true,serious,true,false
+Wilasang,gemini-3-flash-preview,D,0.750000,serious,serious,true,serious,true,false
+Wong,gemini-3-flash-preview,D,0.750000,serious,serious,true,serious,true,false
+Bernard Stoecklin,gemini-3.1-pro-preview,A,,,serious,,,,true
+Bi,gemini-3.1-pro-preview,A,,,serious,,,,true
+Burke,gemini-3.1-pro-preview,A,,,serious,,,,true
+Chen,gemini-3.1-pro-preview,A,,,serious,,,,true
+Choi H,gemini-3.1-pro-preview,A,,,serious,,,,true
+Choi JY,gemini-3.1-pro-preview,A,,,serious,,,,true
+Cowling,gemini-3.1-pro-preview,A,,,serious,,,,true
+Davalgi,gemini-3.1-pro-preview,A,,,serious,,,,true
+Dinh,gemini-3.1-pro-preview,A,,,serious,,,,true
+Lam,gemini-3.1-pro-preview,A,,,serious,,,,true
+Nachega,gemini-3.1-pro-preview,A,,,serious,,,,true
+Ng,gemini-3.1-pro-preview,A,,,serious,,,,true
+Wilasang,gemini-3.1-pro-preview,A,,,serious,,,,true
+Wong,gemini-3.1-pro-preview,A,,,serious,,,,true
+Bernard Stoecklin,gemini-3.1-pro-preview,B,0.625000,serious,serious,true,serious,true,false
+Bi,gemini-3.1-pro-preview,B,0.875000,serious,serious,true,serious,true,false
+Burke,gemini-3.1-pro-preview,B,0.750000,moderate,serious,false,moderate,false,false
+Chen,gemini-3.1-pro-preview,B,0.875000,moderate,serious,false,moderate,false,false
+Choi H,gemini-3.1-pro-preview,B,0.125000,serious,serious,true,serious,true,false
+Choi JY,gemini-3.1-pro-preview,B,0.000000,serious,serious,true,serious,true,false
+Cowling,gemini-3.1-pro-preview,B,0.750000,serious,serious,true,serious,true,false
+Davalgi,gemini-3.1-pro-preview,B,0.250000,serious,serious,true,serious,true,false
+Dinh,gemini-3.1-pro-preview,B,0.375000,serious,serious,true,serious,true,false
+Lam,gemini-3.1-pro-preview,B,0.750000,serious,serious,true,serious,true,false
+Nachega,gemini-3.1-pro-preview,B,0.000000,moderate,serious,false,moderate,false,false
+Ng,gemini-3.1-pro-preview,B,0.875000,moderate,serious,false,moderate,false,false
+Wilasang,gemini-3.1-pro-preview,B,0.500000,serious,serious,true,serious,true,false
+Wong,gemini-3.1-pro-preview,B,0.125000,serious,serious,true,serious,true,false
+Bernard Stoecklin,gemini-3.1-pro-preview,C,0.625000,serious,serious,true,serious,true,false
+Bi,gemini-3.1-pro-preview,C,0.875000,serious,serious,true,serious,true,false
+Burke,gemini-3.1-pro-preview,C,0.875000,serious,serious,true,serious,true,false
+Chen,gemini-3.1-pro-preview,C,0.875000,moderate,serious,false,moderate,false,false
+Choi H,gemini-3.1-pro-preview,C,0.125000,serious,serious,true,serious,true,false
+Choi JY,gemini-3.1-pro-preview,C,0.000000,serious,serious,true,serious,true,false
+Cowling,gemini-3.1-pro-preview,C,0.750000,serious,serious,true,serious,true,false
+Davalgi,gemini-3.1-pro-preview,C,0.250000,serious,serious,true,serious,true,false
+Dinh,gemini-3.1-pro-preview,C,0.500000,serious,serious,true,serious,true,false
+Lam,gemini-3.1-pro-preview,C,0.750000,serious,serious,true,serious,true,false
+Nachega,gemini-3.1-pro-preview,C,0.000000,moderate,serious,false,moderate,false,false
+Ng,gemini-3.1-pro-preview,C,0.625000,serious,serious,true,serious,true,false
+Wilasang,gemini-3.1-pro-preview,C,0.500000,serious,serious,true,serious,true,false
+Wong,gemini-3.1-pro-preview,C,0.125000,serious,serious,true,serious,true,false
+Bernard Stoecklin,gemini-3.1-pro-preview,D,0.750000,serious,serious,true,serious,true,false
+Bi,gemini-3.1-pro-preview,D,0.750000,moderate,serious,false,moderate,false,false
+Burke,gemini-3.1-pro-preview,D,0.875000,serious,serious,true,serious,true,false
+Chen,gemini-3.1-pro-preview,D,0.750000,moderate,serious,false,moderate,false,false
+Choi H,gemini-3.1-pro-preview,D,0.500000,serious,serious,true,serious,true,false
+Choi JY,gemini-3.1-pro-preview,D,0.000000,serious,serious,true,serious,true,false
+Cowling,gemini-3.1-pro-preview,D,0.750000,serious,serious,true,serious,true,false
+Davalgi,gemini-3.1-pro-preview,D,0.500000,serious,serious,true,serious,true,false
+Dinh,gemini-3.1-pro-preview,D,0.500000,serious,serious,true,serious,true,false
+Lam,gemini-3.1-pro-preview,D,0.625000,serious,serious,true,serious,true,false
+Nachega,gemini-3.1-pro-preview,D,0.000000,serious,serious,true,serious,true,false
+Ng,gemini-3.1-pro-preview,D,0.625000,serious,serious,true,serious,true,false
+Wilasang,gemini-3.1-pro-preview,D,0.625000,serious,serious,true,serious,true,false
+Wong,gemini-3.1-pro-preview,D,0.125000,serious,serious,true,serious,true,false

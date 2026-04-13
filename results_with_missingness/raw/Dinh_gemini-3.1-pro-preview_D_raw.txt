@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Dinh",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Vietnam deployed border control measures such as temperature screening, visa waiver/entry halting, 14-day quarantine enforcement and mandatory health declaration... As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality. The country has kept the outbreak at a slow growth rate even after reporting 100 cases, with doubling time of more than 7 days"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "The country has kept the outbreak at a slow growth rate even after reporting 100 cases, with doubling time of more than 7 days, on par with Japan or Singapore"
+    }
+  },
+  "overall_rob": "serious"
+}
+```

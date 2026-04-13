@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Nachega",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "follow_up_length_reported": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "unclear",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    }
+  },
+  "overall_rob": "moderate"
+}
+```

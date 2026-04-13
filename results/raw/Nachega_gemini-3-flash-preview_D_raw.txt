@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Nachega",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We discuss COVID-19 control approaches in selected African countries and the need for shared, affordable, innovative methods to overcome challenges and minimize mortality."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "In South Africa, approximately 28 000 community healthcare workers (CHCWs) have been deployed. By the end of April 2020, more than 6 million people had been screened and 42 000 referred for testing."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "no",
+      "quote": "Sixteen percent of those screened were referred for testing at health facilities (range, 4%– 48% by subdistrict)."
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "As of 26 May 2020, the World Health Organization Africa Region (WHO-AFRO) had reported 80 979 coronavirus disease 2019 (COVID-19) cases with 2193 deaths from 45 countries..."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "In South Africa, approximately 28 000 community healthcare workers (CHCWs) have been deployed."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "no",
+      "quote": "Figure 1 shows COVID-19 screening activity by subdistrict in Cape Town, the epicenter of the pandemic in South Africa. Sixteen percent of those screened were referred for testing at health facilities (range, 4%– 48% by subdistrict)."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Table 1 describes the implementation challenges and possible solutions."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "We discuss COVID-19 screening, testing, and contact tracing experiences from selected African countries and the need for shared, affordable approaches and innovations to overcome challenges and minimize mortality rates."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

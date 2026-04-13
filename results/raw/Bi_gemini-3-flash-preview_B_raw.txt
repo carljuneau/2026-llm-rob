@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Bi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "From Jan 14 to Feb 12, 2020, the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts. We compared cases identified through symptomatic surveillance and contact tracing"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "RT-PCR testing was required for all close contacts at the beginning of isolation, and release was conditional on a negative RT-PCR result."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Close contacts and travellers from Hubei who tested negative were quarantined at home or a central facility, and monitored for 14 days."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Not mentioned"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Suspected cases and close contacts were tested for SARS-CoV-2 by RT-PCR of nasal swabs at 28 qualified local hospitals, ten district-level CDCs, and two third-party testing organisations, with final confirmation done at the Guangdong Provincial Center for Disease Control and Prevention (Guangdong CDC) or Shenzhen CDC"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "In multiple regression models including sex, age, baseline severity, and method of detection, in addition to age, baseline severity was associated with time to recovery"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The relative odds of transmission among contacts of various types were estimated by use of conditional logistic regression and random-effects models, to account for differing numbers of possible infected individuals in each risk group."
+    }
+  },
+  "overall_rob": "moderate"
+}
+```

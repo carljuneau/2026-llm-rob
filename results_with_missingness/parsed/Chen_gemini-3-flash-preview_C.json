@@ -1,0 +1,38 @@
+{
+  "study_id": "Chen",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Based on the mobile position information, we identified 627,386 corresponding possible contact-persons... this method may miss those who did not carry a mobile phone, but this is a very rare scenario in Taiwan."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "we identified 627,386 potential contact-persons. Information on self-monitoring and self-quarantine was provided via SMS"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "we used the National Health Insurance Claims data to track the health status of all subjects with potential contact."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "During the surveillance period between January 31 and March 10, 2020"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "the health care providers were informed of the potential exposure of the patient and screening for SARS-CoV-2 was suggested."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "The subjects who had pneumonia were identified by ICD-10 codes ('J12-' to 'J18')... subjects with at least one outpatient visit with ICD-10... codes ('J00' to 'J11') were identified as having respiratory syndrome."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The age-standardized rates between the two groups were calculated."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We noted an age-standardized relative ratio of 0.929 (95% CI 0.923-0.935) for the contact population diagnosed as having respiratory syndrome, relative to the general population."
+    }
+  },
+  "overall_rob": "serious"
+}

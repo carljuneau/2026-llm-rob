@@ -1,0 +1,38 @@
+{
+  "study_id": "Bernard Stoecklin",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Between 10 January and 24 January (period until confirmation of the first cases in France), nine possible cases were identified in France; among them, three cases were confirmed with COVID-19."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Here we describe the real-time implementation of this surveillance scheme for the first three imported cases of COVID-19 identified in France, who were confirmed on 24 January 2020 in persons with a recent stay in Wuhan. ... We present data until 12 February on the follow-up of the cases’ contacts initiated immediately upon confirmation of infection."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As at 12 February, the contacts of the three first confirmed cases of COVID-19 in France have been followed up for the whole 14 days follow-up time after the cases isolation."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As at 12 February, the contacts of the three first confirmed cases of COVID-19 in France have been followed up for the whole 14 days follow-up time after the cases isolation."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The text does not provide information regarding whether the outcome assessors were blinded to the investigated determinant."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "A confirmed case was defined as a possible case with a positive SARS-CoV-2 RT-PCR on respiratory samples, performed by an accredited laboratory."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Three levels of risk of infection are defined for contacts/co-exposed persons of a possible/confirmed COVID-19 case (Table). ... As at 12 February, the contacts of the three first confirmed cases of COVID-19 in France have been followed up for the whole 14 days follow-up time after the cases isolation."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Five contacts were evaluated as at low risk of exposure and 18 at moderate/high risk. ... no secondary transmission has been identified."
+    }
+  },
+  "overall_rob": "moderate"
+}

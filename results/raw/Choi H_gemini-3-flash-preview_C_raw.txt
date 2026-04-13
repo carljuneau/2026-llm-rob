@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. ... Source: Korea Centers for Disease Control and Prevention (KCDC)"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "This case study describes the major cluster transmissions of SARS-CoV-2 in South Korea and analyzes the public health authorities’ emergency measures to the pandemic crisis. ... total 11,402 (100) [in Table 1]"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. [The study utilizes national data from the KCDC, covering all confirmed cases in the country.]"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "In South Korea, the first confirmed case, identified on 20 January 2020... as of late May 2020, the South Korean public health system is deemed a model of virus containment."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports. [Blinding of outcome assessors is not mentioned.]"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Number of confirmed cases currently in quarantine/hospital; Cumulative number of recovered cases [Figure 1]"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. [The study presents data by age group but does not perform multivariable analysis to account for other prognostic factors or potential confounders.]"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "It follows the case-centric approach to case study, which is different from theory-centric or theory-building approaches [4], as it is used for a mechanistic explanation of the outcomes of a particular case. [The study is descriptive and does not statistically quantify the effect of the interventions.]"
+    }
+  },
+  "overall_rob": "serious"
+}
+```

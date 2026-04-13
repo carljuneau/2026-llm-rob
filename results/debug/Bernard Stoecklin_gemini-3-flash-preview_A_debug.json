@@ -1,0 +1,36 @@
+{
+  "response_id": "C7jWacb2HYvhz7IPgY3x0AQ",
+  "model_version": "gemini-3-flash-preview",
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 20,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 3777,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 53
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 3724
+      }
+    ],
+    "thoughts_token_count": 1095,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4892,
+    "traffic_type": null
+  },
+  "candidates": [
+    {
+      "finish_reason": "FinishReason.STOP",
+      "finish_message": null
+    }
+  ],
+  "assistant_text_length": 39,
+  "assistant_text_head": "```json\n{\n  \"risk_of_bias\": \"low\"\n}\n```",
+  "assistant_text_tail": "```json\n{\n  \"risk_of_bias\": \"low\"\n}\n```",
+  "error": "Schema validation failed: output is missing required key(s): study_id, overall_rob"
+}

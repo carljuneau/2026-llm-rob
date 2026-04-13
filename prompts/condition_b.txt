@@ -1,0 +1,12 @@
+Use the following 8 criteria:
+{criteria_block}
+
+Allowed judgment values for each criterion: yes, no, unclear.
+
+Overall risk-of-bias derivation rule:
+all yes              → low
+any unclear, no no   → moderate
+any no               → serious
+
+Return only JSON that matches exactly this schema:
+{schema}

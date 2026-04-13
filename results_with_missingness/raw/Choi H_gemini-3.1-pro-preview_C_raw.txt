@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "This case study describes the major cluster transmissions of SARS-CoV-2 in South Korea and analyzes the public health authorities’ emergency measures to the pandemic crisis."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "no",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "no",
+      "quote": "This research asks how the South Korean public health system managed the pandemic crisis, flattened the curve without coercive measures like lockdown, and discusses the consequences."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "This research asks how the South Korean public health system managed the pandemic crisis, flattened the curve without coercive measures like lockdown, and discusses the consequences."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

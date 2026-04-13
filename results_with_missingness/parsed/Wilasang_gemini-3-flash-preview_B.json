@@ -1,0 +1,38 @@
+{
+  "study_id": "Wilasang",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "In this study, the number of daily confirmed cases of COVID-19 in the selected countries were obtained from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "We employed a method proposed by Cori et al.1 to estimate Rt in 10 selected countries, namely Belgium, China, France, Germany, Iran, South Korea, Spain, Thailand, USA and UK"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Figure 1A—J illustrates the time series of the estimated Rt on weekly windows with 95% confidence interval (CI) in 10 selected countries"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Figure 1A—J illustrates the time series of the estimated Rt on weekly windows with 95% confidence interval (CI) in 10 selected countries starting from the date at which the number of cumulative confirmed cases in each country exceeds 100"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "We employed a method proposed by Cori et al.1 to estimate Rt in 10 selected countries, namely Belgium, China, France, Germany, Iran, South Korea, Spain, Thailand, USA and UK, using the EpiEstim Microsoft Excel spreadsheet"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "The time-varying reproduction number, Rt, is the average number of secondary cases of disease caused by an infected individual over his or her infectious period."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Finally, country-to-country comparisons of the effectiveness of control measures are problematic due to many confounding factors, such as different population sizes and densities, superspreading events, social mixing patterns and nuances in social distancing measures."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We also calculated the reduction in Rt (ΔRt): a higher ΔRt is indicative of more successful control measures."
+    }
+  },
+  "overall_rob": "serious"
+}

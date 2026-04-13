@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "This case study describes the major cluster transmissions of SARS-CoV-2 in South Korea and analyzes the public health authorities’ emergency measures to the pandemic crisis. It follows the case-centric approach to case study, which is different from theory-centric or theory-building approaches"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. [...] total 11,402 (100)"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. [...] total 11,402 (100) Deceased (%) 269 (100)"
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "This article is a very early observation and presents only a very incomplete picture. At the time of writing, the pandemic may not have reached its peak."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The diagnostic capacity, or the ability to test a large number of patients, is of great importance, not only in identifying and treating the virus, but also in establishing the reliability of medical data"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. [...] Confirmed Cases (%) [...] Deceased (%)"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "This case study describes the major cluster transmissions of SARS-CoV-2 in South Korea and analyzes the public health authorities’ emergency measures to the pandemic crisis."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

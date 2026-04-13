@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Lam",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "For each confirmed case, relevant epidemiological and clinical data collected from CHP epidemiological investigations were extracted from the CHP electronic databases."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "A total of 1084 confirmed cases were reported between January and May 2020... Various public health measures, including enhanced surveillance, border control, and social distancing, were introduced in phases in response to the prevailing local and global situations."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "A total of 1084 confirmed cases were reported between January and May 2020... All cases were isolated in public hospitals. As at 31 May 2020, 1036 patients had been discharged"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As at 31 May 2020, 1036 patients had been discharged, with an average length of stay of 21.6 d (range 1–94 d; median 20 d)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The epidemiological and clinical profiles of the confirmed cases were described and compared between different case classifications and phases of the epidemic"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "A confirmed COVID-19 case was defined according to the case definition issued by the Centre for Health Protection (CHP), Department of Health (Centre for Health Protection, 2020). In brief, confirmation required the detection (e.g., by reverse transcription-polymerase chain reaction (RT-PCR)) of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in a clinical specimen."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "As a descriptive study, causal relationships between the public health measures and the epidemic trend could not be established."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "As a descriptive study, causal relationships between the public health measures and the epidemic trend could not be established. In addition, the contribution of the effect of individual measures could not be assessed."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

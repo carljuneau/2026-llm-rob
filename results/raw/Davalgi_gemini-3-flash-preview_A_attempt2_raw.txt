@@ -1,0 +1,6 @@
+```json
+{
+  "Study ID": "Davalgi",
+  "Risk of Bias": "Moderate"
+}
+```

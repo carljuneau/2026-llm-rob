@@ -1,0 +1,45 @@
+{
+  "response_id": "7rvWaf3oMemKqtsP2Z6ZoAU",
+  "model_version": "gemini-3-flash-preview",
+  "usage_metadata": {
+    "cache_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 28
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 2793
+      }
+    ],
+    "cached_content_token_count": 2821,
+    "candidates_token_count": 27,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 4837,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 4788
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 49
+      }
+    ],
+    "thoughts_token_count": 2151,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7015,
+    "traffic_type": null
+  },
+  "candidates": [
+    {
+      "finish_reason": "FinishReason.STOP",
+      "finish_message": null
+    }
+  ],
+  "assistant_text_length": 61,
+  "assistant_text_head": "```json\n{\n  \"Study ID\": \"Chen\",\n  \"Risk of Bias\": \"Low\"\n}\n```",
+  "assistant_text_tail": "```json\n{\n  \"Study ID\": \"Chen\",\n  \"Risk of Bias\": \"Low\"\n}\n```",
+  "error": "Schema validation failed: output is missing required key(s): study_id, overall_rob"
+}

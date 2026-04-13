@@ -1,0 +1,5 @@
+```json
+{
+  "risk_of_bias": "Moderate"
+}
+```

@@ -1,0 +1,38 @@
+{
+  "study_id": "Dinh",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "As a low-middle income and populous country with 95 million people, Vietnam faces a high risk of a severe COVID-19 outbreak"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Vietnam deployed border control measures such as temperature screening, visa waiver/entry halting, 14-day quarantine enforcement and mandatory health declaration. [...] As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "no",
+      "quote": "Unlike affluent Asian countries with GDP per capita of 20-fold higher, Vietnam could not afford a community-wide testing program."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality. The country has kept the outbreak at a slow growth rate even after reporting 100 cases, with doubling time of more than 7 days"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": ""
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "The country has kept the outbreak at a slow growth rate even after reporting 100 cases, with doubling time of more than 7 days, on par with Japan or Singapore"
+    }
+  },
+  "overall_rob": "serious"
+}

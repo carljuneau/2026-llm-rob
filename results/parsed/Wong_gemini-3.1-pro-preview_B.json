@@ -1,0 +1,38 @@
+{
+  "study_id": "Wong",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat, so that other countries may be able to learn from Hong Kong’s experience."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "Hong Kong’s multipronged approach is summarized in Box 1; it included border controls, social distancing, quarantine, aggressive contact tracing, testing, screening and surveillance."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat"
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "Cumulative number of deaths from coronavirus disease 2019 (COVID-19) (data as of Apr. 13, 2020)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat"
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "no",
+      "quote": "Given its unique circumstances, Hong Kong has done relatively well in controlling the spread of COVID-19"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat"
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat"
+    }
+  },
+  "overall_rob": "serious"
+}

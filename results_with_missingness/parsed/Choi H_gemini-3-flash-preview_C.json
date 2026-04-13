@@ -1,0 +1,38 @@
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. ... total 11,402 (100)"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "This case study describes the major cluster transmissions of SARS-CoV-2 in South Korea and analyzes the public health authorities’ emergency measures to the pandemic crisis. ... Table 1. Total cases by age as of 29 May 2020. ... total 11,402 (100)"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Table 1. Total cases by age as of 29 May 2020. ... total 11,402 (100) ... Deceased (%) 269 (100)"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "In South Korea, the first confirmed case, identified on 20 January 2020 ... Table 1. Total cases by age as of 29 May 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "authorized the first testing kits, made by a South Korean biotech company, to diagnose SARS-CoV-2 infection."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "Table 1. Total cases by age as of 29 May 2020."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "This research asks how the South Korean public health system managed the pandemic crisis, flattened the curve without coercive measures like lockdown, and discusses the consequences."
+    }
+  },
+  "overall_rob": "serious"
+}

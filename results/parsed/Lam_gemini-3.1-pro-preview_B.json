@@ -1,0 +1,38 @@
+{
+  "study_id": "Lam",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "For each confirmed case, relevant epidemiological and clinical data collected from CHP epidemiological investigations were extracted from the CHP electronic databases."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "A total of 1084 confirmed cases were reported between January and May 2020... The various major public health measures implemented by the government in response to the prevailing disease situation were reviewed"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "For each confirmed case, relevant epidemiological and clinical data collected from CHP epidemiological investigations were extracted from the CHP electronic databases."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Between January and May 2020, 1084 confirmed COVID-19 cases were reported"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "no",
+      "quote": "As a descriptive study, causal relationships between the public health measures and the epidemic trend could not be established."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Their overall effectiveness was assessed by calculating the 7-day moving averages of the daily number of confirmed cases reported and the interval from symptom onset to hospital admission (onset-to-admission interval)"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "As a descriptive study, causal relationships between the public health measures and the epidemic trend could not be established. In addition, the contribution of the effect of individual measures could not be assessed."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "As a descriptive study, causal relationships between the public health measures and the epidemic trend could not be established. In addition, the contribution of the effect of individual measures could not be assessed."
+    }
+  },
+  "overall_rob": "serious"
+}

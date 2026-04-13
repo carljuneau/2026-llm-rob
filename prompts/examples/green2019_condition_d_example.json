@@ -1,0 +1,38 @@
+{
+  "study_id": "Green 2019",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "Among 4421 eligible individuals, 2751 participants (62.3%) diagnosed between April 1962 and November 2000 had an evaluable ALT as part of their clinical assessment at St. Jude Children's Research Hospital (Figure 1). The 1668 non-participants were more likely to be male and non-Hispanic black."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Patients and Methods: 2751 CCS from the St. Jude Lifetime Cohort Study (>10 years post-diagnosis, age ≥18 years)."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Among 4421 eligible individuals, 2751 participants (62.3%) diagnosed between April 1962 and November 2000 had an evaluable ALT as part of their clinical assessment at St. Jude Children's Research Hospital (Figure 1)."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The median age of the participants at diagnosis was 7.4 years, the median age at evaluation was 31.4 years, and the median elapsed time from diagnosis to evaluation was 23.2 years (Table 1)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "yes",
+      "quote": "All participants had the serum level of ALT measured at St. Jude Children's Research Hospital using the alanine aminotransferase according to International Federation of Clinical Chemistry and Laboratory Medicine Scientific Division, Committee on Reference Systems of Enzymes without pyridoxal phosphate (ALTL) (Roche Diagnostics, Indianapolis, Indiana) reagents on the Roche Cobas 6000 analyzer."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Results were interpreted as a multiple of the sex-specific upper limit of normal (ULN) (ULN = 30 U/L for males and ULN = 19 U/L for females) (23, 24) and of the institutional ULN (ULN = 40 for males and females) using the Common Terminology Criteria for Adverse Events version 4.03 (Grade 0 ≤ ULN; Grade 1 - > ULN to ≤ 3 × ULN; Grade 2 - > 3 ULN to ≤ 5 × ULN; Grade 3 - > 5 × ULN - ≤ 20 × ULN; grade 4 - > 20 × ULN) (25)."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Given little a priori justification for including a particular set of covariates in the model, to adjust for confounding bias, Elastic Net was applied to all demographic, lifestyle, and treatment variables to perform model selection for elevated ALT using the GLMNET in R 3.2.2 (36, 37) . Models with the smallest Akiake Information Criterion were selected as the final models."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "Modified Poisson regression models (Poisson regression with a robust error variance) (38, 39) were used to identify risk factors for elevated ALT on models selected by using Elastic Net. This approach produces unbiased parameter estimates and improves the prediction of error. Results for ALT were presented as relative risks (RR) with 95% confidence intervals (CI)."
+    }
+  },
+  "overall_rob": "serious"
+}

@@ -1,0 +1,38 @@
+{
+  "study_id": "Cowling",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "We analysed data on laboratory-confirmed COVID-19 cases, influenza surveillance data in outpatients of all ages, and influenza hospitalisations in children. [...] We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Data on laboratory-confirmed COVID-19 cases were obtained from the Hong Kong Centre for Health Protection, which provides daily updates with individual case data on a dedicated webpage. We obtained sentinel surveillance data on influenza-like illnesses in a network of around 60 general outpatient clinics from the Centre for Health Protection."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "COVID-19 transmissibility measured by Rt has remained at approximately 1 for 8 weeks in Hong Kong. [...] We evaluated the changes in transmissibility by comparing the Rt values during the 2 weeks before and after the start of the school closures"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": ""
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "We estimated changes in COVID-19 transmissibility over time via the effective reproduction number (Rt), which represents the mean number of secondary infections that result from a primary case of infection at time t."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Means and proportions of survey responses were directly weighted by sex and age to the general population."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We evaluated the changes in transmissibility by comparing the Rt values during the 2 weeks before and after the start of the school closures (including the Chinese New Year holidays) for the 2019–20 winter influenza season. The 95% CIs for the change in Rt were calculated using Fieller’s theorem. [...] with a 44% (95% CI 34–53%) reduction in transmissibility in the community, from an estimated Rt of 1·28 (95% CI 1·26–1·30) before the start of the school closures to 0·72 (0·70–0·74) during the closure weeks."
+    }
+  },
+  "overall_rob": "serious"
+}

@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi JY",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "Currently, there is no established standard antiviral treatment for COVID-19 other than supportive treatment."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "This report aimed to describe the current situation of COVID-19 in South Korea and our response to this outbreak."
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "It is too early to say whether our response has been successful. Our actions should be evaluated after the outbreak ends."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "This report aimed to describe the current situation of COVID-19 in South Korea and our response to this outbreak."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "unclear",
+      "quote": "This report aimed to describe the current situation of COVID-19 in South Korea and our response to this outbreak."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": "This report aimed to describe the current situation of COVID-19 in South Korea and our response to this outbreak."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "It is too early to say whether our response has been successful. Our actions should be evaluated after the outbreak ends."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

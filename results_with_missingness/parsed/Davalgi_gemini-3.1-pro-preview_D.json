@@ -1,0 +1,38 @@
+{
+  "study_id": "Davalgi",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "These countries and WHO regions were selected purposely based upon their COVID 19 caseload, management strategies (better or worse, early or delayed) and outcome (deaths and recovered)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "We selected few of the countries from all WHO regions except Africa that had the least number of cases and deaths due to COVID 19. ... Countries Selected ... Germany, Italy ... USA, Canada ... China, Singapore ... Iran and Kingdom of Saudi Arabia (KSA) ... India, Srilanka"
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "TABLE 1 GLOBAL BURDEN OF DISEASE AS ON APRIL 9TH, 2020(2) ... Countries Selected ... Germany, Italy ... USA, Canada ... China, Singapore ... Iran and Kingdom of Saudi Arabia (KSA) ... India, Srilanka"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As of 9th April 2020, the 100th day after WHO was notified of the first cases of “pneumonia with unknown cause” in China, 1436198 confirmed cases and 85522 deaths were reported globally."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "We have compared the measures taken by the selected countries in each of these WHO regions to contain the spread of COVID 19."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "TABLE 1 GLOBAL BURDEN OF DISEASE AS ON APRIL 9TH, 2020(2) ... Total Confirmed cases ... Total Deaths ... Case Fatality Rate, CFR (%)"
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The case fatality rate differs across the countries in different WHO regions and also within the countries based on the strategies planned and measures taken."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "We have compared the measures taken by the selected countries in each of these WHO regions to contain the spread of COVID 19."
+    }
+  },
+  "overall_rob": "serious"
+}

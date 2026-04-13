@@ -1,0 +1,38 @@
+{
+  "study_id": "Wong",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "unclear",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat, so that other countries may be able to learn from Hong Kong’s experience."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "Hong Kong’s government implemented multiple measures even before the first case of COVID-19 was diagnosed. Hong Kong’s multipronged approach is summarized in Box 1; it included border controls, social distancing, quarantine, aggressive contact tracing, testing, screening and surveillance."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "From January to March 2020, 96 709 tests were performed, and by Apr. 14, 2020, 1010 people had tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 4 had died from COVID-19."
+    },
+    "follow_up_length_reported": {
+      "judgment": "no",
+      "quote": "From January to March 2020, 96 709 tests were performed, and by Apr. 14, 2020, 1010 people had tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 4 had died from COVID-19."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "An enhanced laboratory surveillance program for patients attending public primary care clinics and accident and emergency departments with fever and mild respiratory symptoms (Jan. 13 and ongoing)9 was implemented to provide timely feedback on the severity of the outbreak in the community."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "no",
+      "quote": "These measures appear to have been effective in curbing the potential exponential rise of cases during the early period of the epidemic,11 and implementation of more recent measures appear to have slowed the increase of local cases (Figure 2)."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat, so that other countries may be able to learn from Hong Kong’s experience."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "We analyze the potential reasons for Hong Kong’s early success in preparing for and reacting to the SARS-CoV-2 threat, so that other countries may be able to learn from Hong Kong’s experience."
+    }
+  },
+  "overall_rob": "serious"
+}

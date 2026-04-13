@@ -1,0 +1,38 @@
+{
+  "study_id": "Cowling",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of March 31, 2020, Hong Kong had confirmed 715 cases of SARS coronavirus 2 (SARS-CoV-2) infection... We did three cross-sectional telephone surveys among the general adult population in Hong Kong, on Jan 20–23, Feb 11–14, and March 10–13, 2020."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "no",
+      "quote": "We interviewed 1008 participants on Jan 20–23 (22% response rate), 1000 participants on Feb 11–14 (23% response rate), and 1005 participants on March 10–13 (response rate 15%; appendix p 3)."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "three telephone surveys done on Jan 20–23, Feb 11–14, and March 10–13, 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The full text does not provide enough information to judge."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "We estimated changes in COVID-19 transmissibility over time via the effective reproduction number (Rt), which represents the mean number of secondary infections that result from a primary case of infection at time t."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Means and proportions of survey responses were directly weighted by sex and age to the general population."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We estimated the daily effective reproduction number (Rt) for COVID-19 and influenza A H1N1 to estimate changes in transmissibility over time... with a 44% (95% CI 34–53%) reduction in transmissibility in the community"
+    }
+  },
+  "overall_rob": "serious"
+}

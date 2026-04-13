@@ -1,0 +1,38 @@
+{
+  "study_id": "Chen",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "The mobile position data from more than 3000 passengers on January 31, 2020, were obtained from five local mobile phone companies. ... Based on the mobile position information, we identified 627,386 corresponding possible contact-persons."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "we identified 627,386 corresponding possible contact-persons. The symptom monitoring and self-quarantine message was sent though SMS after identifying the contact-person on February 7, 2020."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "we used the National Health Insurance Claims data to track the health status of all subjects with potential contact."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "Among these subjects, information on respiratory syndrome or pneumonia cases was ascertained by linkage with the big National Health Insurance claim database from January 31, 2020, to March 10, 2020."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The study does not mention whether outcome assessors (clinicians or laboratory staff) were blinded to the investigated determinant (receipt of the SMS alert)."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "The subjects who had pneumonia were identified by ICD-10 codes (“J12-” to “J18”)."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "The age-standardized rates between the two groups were calculated."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "We noted an age-standardized relative ratio of 0.929 (95% CI 0.923-0.935) for the contact population diagnosed as having respiratory syndrome, relative to the general population."
+    }
+  },
+  "overall_rob": "moderate"
+}

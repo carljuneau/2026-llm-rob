@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Dinh",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "As a low-middle income and populous country with 95 million people, Vietnam faces a high risk of a severe COVID-19 outbreak"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Vietnam’s responses are generally in line with current practices of other countries, but they were implemented very early, with great emphasis on case identification, source control and public awareness. ... As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "COVID-19 officially hit Vietnam on 23 January, and the ongoing outbreak in Vietnam can be temporarily divided into three phases ... As of 7 April, Vietnam recorded 241 confirmed cases"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The text does not provide information regarding the blinding of outcome assessors."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": "The text does not explicitly state whether important prognostic factors such as age or gender were taken into account in the analysis of outcomes."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The country has kept the outbreak at a slow growth rate even after reporting 100 cases, with doubling time of more than 7 days, on par with Japan or Singapore (Figure 2, bottom panel)."
+    }
+  },
+  "overall_rob": "moderate"
+}
+```

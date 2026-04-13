@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Bernard Stoecklin",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Here we describe the real-time implementation of this surveillance scheme for the first three imported cases of COVID-19 identified in France, who were confirmed on 24 January 2020 in persons with a recent stay in Wuhan."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Three cases of COVID-19 were confirmed on 24 January, the first cases in Europe. Contact tracing was immediately initiated. Five contacts were evaluated as at low risk of exposure and 18 at moderate/high risk."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As at 12 February, the contacts of the three first confirmed cases of COVID-19 in France have been followed up for the whole 14 days follow-up time after the cases isolation."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "As at 12 February, the contacts of the three first confirmed cases of COVID-19 in France have been followed up for the whole 14 days follow-up time after the cases isolation."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The follow-up consists of an active follow-up through daily calls from the regional follow-up team organised by the Regional Health Agency in collaboration with Santé publique France."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "A confirmed case was defined as a possible case with a positive SARS-CoV-2 RT-PCR on respiratory samples, performed by an accredited laboratory."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "No secondary transmission event has been detected so far despite active follow-up."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "No secondary transmission event has been detected so far despite active follow-up."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

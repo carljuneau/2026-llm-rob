@@ -1,0 +1,56 @@
+{
+  "response_id": "WR3Wafv4CbvQz7IP3J_fkQI",
+  "model_version": "gemini-3-flash-preview",
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 653,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 23745,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 14120
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 9625
+      }
+    ],
+    "thoughts_token_count": 15727,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 40125,
+    "traffic_type": null
+  },
+  "candidates": [
+    {
+      "finish_reason": "FinishReason.MAX_TOKENS",
+      "finish_message": null,
+      "citation_metadata": {
+        "citations": [
+          {
+            "end_index": 513,
+            "license": "",
+            "publication_date": null,
+            "start_index": 233,
+            "title": null,
+            "uri": "http://dx.doi.org/10.1136/postgradmedj-2020-137738"
+          },
+          {
+            "end_index": 1079,
+            "license": "",
+            "publication_date": null,
+            "start_index": 799,
+            "title": null,
+            "uri": "http://dx.doi.org/10.1136/postgradmedj-2020-137738"
+          }
+        ]
+      }
+    }
+  ],
+  "assistant_text_length": 2188,
+  "assistant_text_head": "```json\n{\n  \"study_id\": \"Choi JY\",\n  \"criteria\": {\n    \"study_group_representative\": {\n      \"judgment\": \"no\",\n      \"quote\": \"As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have b",
+  "assistant_text_tail": "_for\": {\n      \"judgment\": \"yes\",\n      \"quote\": \"The female-to-male ratio was 62:38. The age group of 20–29 years accounted for 28.9% of all cases, followed by the age groups of 50–59 and 40–49 years",
+  "error": "Invalid JSON: Unterminated string starting at: line 30 column 16 (char 2029)"
+}

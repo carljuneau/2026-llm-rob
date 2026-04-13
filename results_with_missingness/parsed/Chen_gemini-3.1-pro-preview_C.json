@@ -1,0 +1,38 @@
+{
+  "study_id": "Chen",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "Based on the mobile position information, we identified 627,386 corresponding possible contact-persons... Among these subjects, information on respiratory syndrome or pneumonia cases was ascertained by linkage with the big National Health Insurance claim database"
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "Based on the mobile position information, we identified 627,386 corresponding possible contact-persons. The symptom monitoring and self-quarantine message was sent though SMS after identifying the contact-person on February 7, 2020."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "Among these subjects, information on respiratory syndrome or pneumonia cases was ascertained by linkage with the big National Health Insurance claim database"
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "During the surveillance period between January 31 and March 10, 2020"
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "On February 9, the CECC sent a notice to all health care providers mentioning this event and the guidance for management of potential contacts."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "subjects with at least one outpatient visit with ICD-10 (The International Statistical Classification of Diseases and Related Health Problems, 10th Revision) codes (“J00” to “J11”) were identified as having respiratory syndrome. The subjects who had pneumonia were identified by ICD-10 codes (“J12-” to “J18”)."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "The age-standardized rates between the two groups were calculated."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The Breslow and Day method [5] was used to calculate 95% confidence intervals... We noted an age-standardized relative ratio of 0.929 (95% CI 0.923-0.935) for the contact population diagnosed as having respiratory syndrome, relative to the general population."
+    }
+  },
+  "overall_rob": "moderate"
+}

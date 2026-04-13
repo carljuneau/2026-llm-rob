@@ -1,0 +1,38 @@
+{
+  "study_id": "Choi H",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "This case study describes the major cluster transmissions of SARS-CoV-2 in South Korea and analyzes the public health authorities’ emergency measures to the pandemic crisis."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "no",
+      "quote": "This case study describes the major cluster transmissions in SARS-CoV-2 hotspots in South Korea (such as a religious sect, a call center, logistics facilities, and nightclubs) and offers early observations on how South Korean public health authorities acted in response to the initial outbreak of the virus and to the new waves prompted by re-opening economies."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "unclear",
+      "quote": "South Korea’s public health system has not been overwhelmed nationally while flattening the curve from new outbreaks, without stringent lockdown measures or other severe restrictions on movement..."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "South Korea was considered the second most affected nation until March 2020; however, as of late May 2020, the South Korean public health system is deemed a model of virus containment."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "Our analysis uses secondary sources, such as government archival data, public agencies’ publications, and media reports."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Figure 1. Number of quarantined and recovered patients."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "yes",
+      "quote": "Table 1 presents data from the Centers for Disease Control, showing that the largest number of confirmed cases (27.70%) occurred in the 20–29 age group."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "It follows the case-centric approach to case study, which is different from theory-centric or theory-building approaches [4], as it is used for a mechanistic explanation of the outcomes of a particular case."
+    }
+  },
+  "overall_rob": "serious"
+}

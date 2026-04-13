@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Choi JY",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "The Korea Centres for Disease Control and Prevention (KCDC) reported the basic epidemiological characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea, including 162 deaths, 5408 recovered individuals released from isolation and 4216 patients staying in hospitals or non-hospital facility for isolation."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The median interval between onset of symptom and death was 10 days (range 1–24 days), while the median interval between date of hospitalisation and the date of death was 5 days (range 0–16 days)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "yes",
+      "quote": "The study does not mention blinding, but outcomes like death and PCR results are objective and unlikely to be influenced by lack of blinding."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Pan coronavirus conventional PCR assay was positive for the throat swab sample, and sequencing of the PCR amplicon showed that the sequence was identical to that of the 2019-nCoV isolated from the Wuhan patient."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "The study reports case fatality proportions by age group but does not perform a multivariable analysis to account for other prognostic factors such as gender or comorbidities."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "no",
+      "quote": "The study is a descriptive review and does not describe a specific statistical analysis method or quantify the effect of interventions using measures like relative risk or odds ratios."
+    }
+  },
+  "overall_rob": "serious"
+}
+```

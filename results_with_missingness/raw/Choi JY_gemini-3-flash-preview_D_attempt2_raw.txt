@@ -1,0 +1,31 @@
+```json
+{
+  "study_id": "Choi JY",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "no",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea. ... characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of 31 March 2020, a total of 9786 confirmed cases with COVID-19 have been reported in South Korea. ... We are trying to reduce the reproduction number of COVID-19 to less than one and eventually succeed in controlling this outbreak using methods such as contact tracing, quarantine, testing, isolation, social distancing and school closure."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "characteristics of 7755 patients with COVID-19 in South Korea as of 13 March 2020 using surveillance data retrieved from the KCDC-operated National Notifiable Disease Surveillance System."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "The median interval between onset of symptom and death was 10 days (range 1–24 days), while the median interval between date of hospitalisation and the date of death was 5 days (range 0–16 days)."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "yes",
+      "quote": "Pan coronavirus conventional PCR assay was positive for the throat swab sample, and sequencing of the PCR amplicon showed that the sequence was identical to that of the 2019-nCoV isolated from the Wuhan patient."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "Pan coronavirus conventional PCR assay was positive for the throat swab sample, and sequencing of the PCR amplicon showed that the sequence was identical to that of the 2019-nCoV isolated from the Wuhan patient."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "unclear",
+      "quote": "The female-to-male ratio was 62:38. The age group of 20–29 years accounted for 28.9% of all cases, followed by the age groups of 50–59 and 40–49 years. The case fatality proportion was 0.1% among the age groups of 30–39 and 40–49 years

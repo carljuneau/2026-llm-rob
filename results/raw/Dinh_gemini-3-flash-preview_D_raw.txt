@@ -1,0 +1,40 @@
+```json
+{
+  "study_id": "Dinh",
+  "criteria": {
+    "study_group_representative": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "intervention_and_participants_defined": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality. ... Vietnam’s responses are generally in line with current practices of other countries, but they were implemented very early, with great emphasis on case identification, source control and public awareness. ... To minimize case importation, Vietnam deployed border control measures such as temperature screening, visa waiver/entry halting, 14-day quarantine enforcement and mandatory health declaration."
+    },
+    "outcome_assessed_for_60pct": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "follow_up_length_reported": {
+      "judgment": "yes",
+      "quote": "COVID-19 officially hit Vietnam on 23 January, and the ongoing outbreak in Vietnam can be temporarily divided into three phases (Figure 1, top panel). ... As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "outcome_assessors_blinded": {
+      "judgment": "unclear",
+      "quote": "The government has kept the public constantly updated with the outbreak progression and responses via accessible official channels, in which personal protective measures and social distancing were especially highlighted."
+    },
+    "outcome_definition_objective_precise": {
+      "judgment": "yes",
+      "quote": "As of 7 April, Vietnam recorded 241 confirmed cases and no fatality."
+    },
+    "important_prognostic_factors_accounted_for": {
+      "judgment": "no",
+      "quote": "These positive outcomes result from prompt, proactive actions of the government and collective efforts of the public. Unlike affluent Asian countries with GDP per capita of 20-fold higher, Vietnam could not afford a community-wide testing program. Instead, Vietnam has focused on cost-effective measures."
+    },
+    "analysis_described_and_effect_quantified": {
+      "judgment": "yes",
+      "quote": "The country has kept the outbreak at a slow growth rate even after reporting 100 cases, with doubling time of more than 7 days, on par with Japan or Singapore (Figure 2, bottom panel)."
+    }
+  },
+  "overall_rob": "serious"
+}
+```
