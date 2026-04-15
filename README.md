@@ -28,9 +28,11 @@ This study tests whether two large language models (Gemini Flash and Gemini Pro)
 
 ```
 data/
-  Table 1 - RoB_observational_studies.csv   # 14 studies with expert gold labels
-  Table 2 - RoB_criteria.csv                # 8 criterion definitions
-  Table 3 - RoB_criteria_mapping.csv        # Mapping from Mulder et al. (2019) criteria
+  public/
+    Table 1 - RoB_observational_studies.csv   # 14 studies with expert gold labels
+    Table 2 - RoB_criteria.csv                # 8 criterion definitions
+    Table 3 - RoB_criteria_mapping.csv        # Mapping from Mulder et al. (2019) criteria
+  private/                                    # Not in repo — add study PDFs here
 prompts/
   condition_a.txt                            # Prompt template for Condition A
   condition_b.txt                            # Additional text for Condition B
@@ -43,7 +45,9 @@ src/
   score_results.py  # Scores parsed outputs against gold labels
   schema.py         # Output schema, validation, and RoB derivation logic
 tests/
-  test_score_results.py   # Unit tests
+  test_score_results.py   # Tests for score_results.py
+  test_schema.py          # Tests for schema.py
+  test_run_models.py      # Tests for run_models.py pure functions
 results/                  # Outputs from the main run (missingness rule removed)
   raw/                    # Raw model responses (.txt)
   parsed/                 # Validated JSON outputs
@@ -114,11 +118,11 @@ pytest tests/
 
 ## Data
 
-**Table 1** (`data/Table 1 - RoB_observational_studies.csv`): Expert risk-of-bias labels for the 14 test studies. Source: Table 3 in Juneau CE et al. (2023). *Effective contact tracing for COVID-19: A systematic review.* Global Epidemiology. https://doi.org/10.1016/j.gloepi.2023.100103
+**Table 1** (`data/public/Table 1 - RoB_observational_studies.csv`): Expert risk-of-bias labels for the 14 test studies. Source: Table 3 in Juneau CE et al. (2023). *Effective contact tracing for COVID-19: A systematic review.* Global Epidemiology. https://doi.org/10.1016/j.gloepi.2023.100103
 
-**Table 2** (`data/Table 2 - RoB_criteria.csv`): The 8 criteria used for assessment. Source: Table 1 in Juneau et al. (2023), adapted from Mulder et al. (2019).
+**Table 2** (`data/public/Table 2 - RoB_criteria.csv`): The 8 criteria used for assessment. Source: Table 1 in Juneau et al. (2023), adapted from Mulder et al. (2019).
 
-**Table 3** (`data/Table 3 - RoB_criteria_mapping.csv`): Maps each criterion used here to its antecedent in Mulder et al. (2019) and documents any adaptations. Corresponds to Appendix A in the paper.
+**Table 3** (`data/public/Table 3 - RoB_criteria_mapping.csv`): Maps each criterion used here to its antecedent in Mulder et al. (2019) and documents any adaptations. Corresponds to Appendix A in the paper.
 
 ## Citation
 
