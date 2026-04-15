@@ -266,6 +266,7 @@ def load_condition_a_raw_overall_rob(
         print(f"Warning: condition A raw directory not found: {raw_dir}", file=sys.stderr)
         return {}
 
+    # Models varied in how they named the overall label; these are the variants observed in practice.
     accepted_keys = {
         "risk_of_bias",
         "risk of bias",
