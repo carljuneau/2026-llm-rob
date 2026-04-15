@@ -624,6 +624,9 @@ def build_default_contrasts(
         add_if_available(f"{model} B - {model} D", model, "B", model, "D")
 
     if len(models) >= 2:
+        # models[0] is assumed to be the weaker model, models[1] the stronger.
+        # The published run used (gemini-3-flash-preview, gemini-3.1-pro-preview) in that order.
+        # Passing --models in a different order will invert the weak/strong labels in contrast names.
         weak_model, strong_model = models[0], models[1]
         for condition in ("B", "C", "D"):
             add_if_available(
